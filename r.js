@@ -6,8 +6,8 @@
 //  4:"5",
 //  5:"6"
 // }
-let random = Math.floor(Math.random(1)*100)
-console.log(random)
-document.write(random)
+// let random = Math.floor(Math.random(1)*100)
+// console.log(random)
+// document.write(random)
 // document.write(jokes[random])
 // console.log(typeof jokes)
